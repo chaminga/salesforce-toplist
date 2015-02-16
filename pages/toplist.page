@@ -1,0 +1,5 @@
+<apex:page controller="toplistcont">
+
+<apex:outputText escape="false" value="{!debug}"></apex:outputText>
+
+</apex:page>
